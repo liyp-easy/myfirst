@@ -1,0 +1,18 @@
+﻿  chess.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(65,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(65,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(66,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(66,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(82,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(83,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(84,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(85,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(86,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(92,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(103,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(114,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(125,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(145,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\29357\source\repos\五子棋\五子棋\chess.cpp(146,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  五子棋.vcxproj -> C:\Users\29357\source\repos\五子棋\x64\Debug\五子棋.exe
